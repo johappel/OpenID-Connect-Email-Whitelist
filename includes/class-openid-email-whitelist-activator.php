@@ -48,8 +48,6 @@ class Activator {
 
     public static function deactivate() {
         // Optional: Aufräumen bei Deaktivierung
-        // Kommentieren Sie die folgenden Zeilen ein, wenn die Einstellungen 
-        // bei Deaktivierung gelöscht werden sollen
 
         /*
         if (is_multisite()) {
